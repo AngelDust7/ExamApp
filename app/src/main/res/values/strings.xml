@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stop">Stop</string>
+    <string name="frag2">frag2</string>
+    <string name="button">Stop</string>
+    <string name="_10">Данное приложение несет в себе топ 10 песен старых исполнителей, которых слушали наши родители и мы будуче спиногрызами :)</string>
+    <string name="p_s">P. S. Я взял тех исполнителей которых слушали мои родители и тех, кого Я времени от времени слушаю сейчас в настоящем</string>
+</resources>
